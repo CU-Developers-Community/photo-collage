@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box-container{
+    display: flex;
+    padding: 1rem;
+    justify-content: space-evenly;
+    padding: 0.3rem;
+}
+
+.box{
+    background-color: gray;
+    border-radius: 0.5rem;
+    width: 32%;
+    color: white;
+    height: 40vh;
+}
+
+.box:hover{
+   
+   
+    cursor: pointer;
+  
+
+}
+
+.r2-1{
+    width: 65%;
+    background-image: url('/im4.jpg');
+    background-size: cover;
+}
+.r2-2{
+    width: 23.5%;
+}
+
+.r1{
+    background-image: url('/paper.jpg');
+    background-size: cover;
+    cursor: pointer;
+}
+
+
+.r2{
+    background-image: url('/back.webp');
+    background-size: cover;
+}
+.r3{
+    background-image: url('/im1.jpg');
+    background-size: cover;
+}
+
+.r4{
+    background-image: url('/im3.webp');
+    background-size: cover;
+}
+.r5{
+    background-image: url('./1423589.jpg');
+    background-size: cover;
+}
+.r6{
+    background-image: url('/im3.webp');
+    background-size: cover;
+}
+.r7{
+    background-image: url('./img9.jpg');
+    background-size: cover;
+}
+.r8{
+    background-image: url('/im2.jpg');
+    background-size: cover;
+}
+
+
